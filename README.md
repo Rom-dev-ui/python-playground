@@ -50,7 +50,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact me via [email](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to open an issue or contact me via [email](romanngatia50@gmail.com).
 
 ---
 
